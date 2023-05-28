@@ -1,6 +1,10 @@
-# WarTime
+# Timeless Prototype's WarTime
 
-WarTime by Timeless Prototype is a strategic tabletop game.
+Timeless Prototype's WarTime is a digitally-downloadable, 3D-print-it-yourself, strategic tabletop game.
+
+This game provides many hours of re-playable enjoyment. You are likely to learn about risk/reward, closed economies, strategies, and timing. Just printing all those 3D pieces will test your patience and mettle, long before the first game can even be played. It's character-building/discovery. :)
+
+Suitable for two or more players. Check your local laws for age restrictions on battle games (wars are violent).
 
 ## Origins
 
