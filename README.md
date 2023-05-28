@@ -51,7 +51,7 @@ colour. The game rules support two or more players. The quantities to print of e
 | [tank](media/3d-prints/3dpiece-tank.stl)                           | 2              | 3D plastic |
 | [truck](media/3d-prints/3dpiece-truck.stl)                         | 2              | 3D plastic |
 
-Total pretend cash amount to print per player is `1000 + 500 * 3 + 100 * 5 = 3000`.
+Total pretend cash amount to print per player is `1000 + 500 * 3 + 100 * 5 = 3000` (i.e. one sheet of pretend money).
 
 Total number of 3D-printed pieces per player is 49.
 
