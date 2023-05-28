@@ -43,13 +43,13 @@ colour. The game rules support two or more players. The quantities to print of e
 | [oil well](media/3d-prints/3dpiece-oil-well.stl)                   | 2              | 3D plastic |
 | [plus disc](media/3d-prints/3dpiece-plus-disc.stl)                 | 4              | 3D plastic |
 | [plus disc holder](media/3d-prints/3dpiece-plus-disc-holder.stl)   | 1              | 3D plastic |
-| [superweapon](media/3d-prints/3dpiece-superweapon.stl)             | 2              | 3D plastic |
+| [superweapon](media/3d-prints/3dpiece-superweapon.stl)             | 1              | 3D plastic |
 | [tank](media/3d-prints/3dpiece-tank.stl)                           | 2              | 3D plastic |
 | [truck](media/3d-prints/3dpiece-truck.stl)                         | 2              | 3D plastic |
 
 Total pretend cash amount to print per player is `1000 + 500 * 3 + 100 * 5 = 3000`.
 
-Total number of 3D-printed pieces per player is 50.
+Total number of 3D-printed pieces per player is 49.
 
 The number of pieces and limited cash supply is part of the game design.
 
