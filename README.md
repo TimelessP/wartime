@@ -10,7 +10,9 @@ Suitable for two or more players. Check your local laws for age restrictions on 
 
 > [@TimelessP](https://github.com/TimelessP): "When I was young, my friends and I used to play a battle game using pen and paper. We would draw our islands, bases, airfields, and all the military units, such as infantry, aircraft, ships, tanks, turrets, etc. Then, with each turn, we would stand the pen up on say a tank, and declare that we are "moving" or "attacking", then slide the pen by touching only the top of the pen, and the ballpoint pen would be made to slide and draw a streak. Where the streak ended, that's where we would draw the unit, and cross out the old position of the unit. Or, if attacking, if the line so much as touches the target piece it was counted as a "hit"!
 > 
-> Many years later we could play such games on computers. This creation of mine, which I shall call "Timeless Prototype's WarTime", is a "hat tip" to those old days of mine, playing on pen and paper, but now with proper game pieces.
+> Many years later we could play such games on computers (and some of those really good ones are no longer supported).
+> 
+> This creation of mine, which I shall call "Timeless Prototype's WarTime", is a "hat tip" to those old days of mine, playing on pen and paper, but now with proper game pieces.
 > 
 > I really hope you all enjoy playing this game. Know that much thought (including golden ratios), effort (my 3D printer needs replacing!), and time (decades even) have gone into its creation.
 > 
@@ -25,7 +27,7 @@ This game is available as a [digital download](https://github.com/TimelessP/wart
 The game pieces are designed to be printed on 3D printers. The game's pretend money can be printed on any 2D paper
 printer. You will need to cut the pretend money out yourself.
 
-![fortified command centre piece](media/screenshots/screenshot-command-centre-fortified.png "fortified command centre")
+![fortified command centre piece](media/thumbnails/thumbnail-command-centre-fortified.png "fortified command centre")
 
 ![pretend money](media/paper/wartime-pretend-money.png "pretend money")
 
