@@ -63,7 +63,7 @@ Here's a YouTube video of the pieces I printed:
 
 ## Game Rules
 
-> TODO: The game rules are still being written. 
+The game rules are available as a [digital download](wartime-rules.md). 
 
 ## Licence
 
