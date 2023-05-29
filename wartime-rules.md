@@ -33,7 +33,7 @@ Fortified buildings cannot be captured until the fortification is destroyed - yo
 
 ### Extra turns in the same turn
 
-If the player chooses to spend a Plus Disc, they make take another turn within the same turn. The player must already
+If the player chooses to spend a Plus Disc, they may take another turn within the same turn. The player must already
 have the Plus Disc in their Plus Disc Holder in order to take another turn. A maximum of four Plus Discs can be spent in
 this way if the player has that many already to spend.
 
