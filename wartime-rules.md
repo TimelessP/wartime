@@ -106,24 +106,24 @@ When building a piece using the bulldozer, the piece must be placed touching the
 After a piece is sold (to the Bank only), it is removed from the table and placed back into the Bank, and is then
 available for purchase again later.
 
-| Piece           | Creation Requires      | Buying Price | Selling Price |
-|-----------------|------------------------|--------------|---------------|
-| airfield        | bulldozer              | 100          | 100           |
-| barracks        | bulldozer              | 100          | 100           |
-| boat            | factory                | 100          | n/a           |
-| bulldozer       | command centre         | 200          | n/a           |
-| command centre  | bulldozer              | 500          | 100           |
-| factory         | bulldozer              | 100          | 100           |
-| fighter jet     | airfield               | 100          | n/a           |
-| fortification   | upgrade any building   | 100          | n/a           |
-| infantry        | barracks               | 100          | n/a           |
-| missile battery | bulldozer              | 100          | 100           |
-| oil storage     | bulldozer and oil well | 100          | 100           |
-| oil well        | bulldozer              | 100          | 100           |
-| plus disc       | successful attack      | n/a          | 100           |
-| super weapon    | bulldozer              | 1000         | 100           |
-| tank            | factory                | 100          | n/a           |
-| truck           | factory                | 100          | n/a           |
+| Thumbnail                                                                                                                                                                  | Piece           | Creation Requires      | Buying Price | Selling Price |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------|--------------|---------------|
+| [<img src="media/thumbnails/thumbnail-airfield.png" alt="airfield" width="60" height="60" />](media/3d-prints/3dpiece-airfield.stl "airfield")                             | airfield        | bulldozer              | 100          | 100           |
+| [<img src="media/thumbnails/thumbnail-barracks.png" alt="barracks" width="60" height="60" />](media/3d-prints/3dpiece-barracks.stl "barracks")                             | barracks        | bulldozer              | 100          | 100           |
+| [<img src="media/thumbnails/thumbnail-boat.png" alt="boat" width="60" height="60" />](media/3d-prints/3dpiece-boat.stl "boat")                                             | boat            | factory                | 100          | n/a           |
+| [<img src="media/thumbnails/thumbnail-bulldozer.png" alt="bulldozer" width="60" height="60" />](media/3d-prints/3dpiece-bulldozer.stl "bulldozer")                         | bulldozer       | command centre         | 200          | n/a           |
+| [<img src="media/thumbnails/thumbnail-command-centre.png" alt="command centre" width="60" height="60" />](media/3d-prints/3dpiece-command-centre.stl "command centre")     | command centre  | bulldozer              | 500          | 100           |
+| [<img src="media/thumbnails/thumbnail-factory.png" alt="factory" width="60" height="60" />](media/3d-prints/3dpiece-factory.stl "factory")                                 | factory         | bulldozer              | 100          | 100           |
+| [<img src="media/thumbnails/thumbnail-fighter-jet.png" alt="fighter jet" width="60" height="60" />](media/3d-prints/3dpiece-fighter-jet.stl "fighter jet")                 | fighter jet     | airfield               | 100          | n/a           |
+| [<img src="media/thumbnails/thumbnail-fortification.png" alt="fortification" width="60" height="60" />](media/3d-prints/3dpiece-fortification.stl "fortification")         | fortification   | upgrade any building   | 100          | n/a           |
+| [<img src="media/thumbnails/thumbnail-infantry.png" alt="infantry" width="60" height="60" />](media/3d-prints/3dpiece-infantry.stl "infantry")                             | infantry        | barracks               | 100          | n/a           |
+| [<img src="media/thumbnails/thumbnail-missile-battery.png" alt="missile battery" width="60" height="60" />](media/3d-prints/3dpiece-missile-battery.stl "missile battery") | missile battery | bulldozer              | 100          | 100           |
+| [<img src="media/thumbnails/thumbnail-oil-storage.png" alt="oil storage" width="60" height="60" />](media/3d-prints/3dpiece-oil-storage.stl "oil storage")                 | oil storage     | bulldozer and oil well | 100          | 100           |
+| [<img src="media/thumbnails/thumbnail-oil-well.png" alt="oil well" width="60" height="60" />](media/3d-prints/3dpiece-oil-well.stl "oil well")                             | oil well        | bulldozer              | 100          | 100           |
+| [<img src="media/thumbnails/thumbnail-plus-disc-holder-2.png" alt="plus disc" width="60" height="60" />](media/3d-prints/3dpiece-plus-disc.stl "plus disc")                | plus disc       | successful attack      | n/a          | 100           |
+| [<img src="media/thumbnails/thumbnail-superweapon.png" alt="super weapon" width="60" height="60" />](media/3d-prints/3dpiece-super-weapon.stl "super weapon")              | super weapon    | bulldozer              | 1000         | 100           |
+| [<img src="media/thumbnails/thumbnail-tank.png" alt="tank" width="60" height="60" />](media/3d-prints/3dpiece-tank.stl "tank")                                             | tank            | factory                | 100          | n/a           |
+| [<img src="media/thumbnails/thumbnail-truck.png" alt="truck" width="60" height="60" />](media/3d-prints/3dpiece-truck.stl "truck")                                         | truck           | factory                | 100          | n/a           |
 
 ## Reference - piece-specific actions
 
