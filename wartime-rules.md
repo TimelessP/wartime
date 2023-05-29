@@ -95,7 +95,9 @@ same single action.
 - When disembarking, any one or two infantry pieces can be disembarked from the boat or truck, at any point within the
   range of the rolled distance.
 
-![empty boat](media/thumbnails/thumbnail-boat.png "empty boat")
+<img src="media/thumbnails/thumbnail-boat.png" alt="empty boat" width="100" height="100" />
+<img src="media/thumbnails/thumbnail-boat-1.png" alt="boat with one infantry" width="100" height="100" />
+<img src="media/thumbnails/thumbnail-boat-2.png" alt="boat with two infantry" width="100" height="100" />
 
 ### Building or selling a piece, and price list
 
