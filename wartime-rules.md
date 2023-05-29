@@ -95,6 +95,8 @@ same single action.
 - When disembarking, any one or two infantry pieces can be disembarked from the boat or truck, at any point within the
   range of the rolled distance.
 
+![empty boat](media/thumbnails/thumbnail-boat.png "empty boat")
+
 ### Building or selling a piece, and price list
 
 When building a piece using the bulldozer, the piece must be placed touching the bulldozer.
