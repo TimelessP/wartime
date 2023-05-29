@@ -54,11 +54,46 @@ When the player's turn ends, then the next player's turn begins.
 
 ### Moving a piece
 
+- The player declares which piece is moving.
+- 1x d6 is rolled for a distance.
+- The measuring stick is used from the centre of the piece to measure (at any angle the player chooses) where the piece
+  will be moved to.
+- The piece is moved to the new location, at its centre.
+- Repeat if the piece has the ability to move 2x d6 in the same turn.
+
+Special case: 2x d6 is the distance of two d6 rolls in the case of the fighter jet's movement capability.
+
 ### Attacking with a piece
+
+- The player declares which piece is attacking.
+- 1x d6 is rolled for a distance.
+- The measuring stick is used from any point on the piece to measure (at any angle the player chooses) where the piece
+  will be attacking.
+- If the measuring stick at the rolled distance touches any part of the target piece, or is within that range, the
+  attack is successful.
+- Repeat if the piece has the ability to attack 1x d6 twice in the same turn.
+
+Special case: 2x d6 is the distance of two d6 rolls in the case of the missile battery's attack capability.
 
 ### Capturing with a piece
 
+- The player declares which disembarked infantry piece is capturing which unfortified building.
+- 1x d6 is rolled for a distance.
+- The measuring stick is used from any point on the infantry piece to measure (at any angle the player chooses) where
+  the infantry piece will be capturing.
+- If the measuring stick at the rolled distance touches any part of the target building, or is within that range, the
+  capture is successful.
+
 ### Embarking or disembarking a piece
+
+Embarking or disembarking is a function of a boat or a truck. One or two infantry can be embarked or disembarked in the
+same single action.
+
+- The player declares which boat or truck is embarking or disembarking.
+- 1x d6 is rolled for a distance.
+- When embarking, any one or two infantry pieces within the range of the rolled distance can be embarked.
+- When disembarking, any one or two infantry pieces can be disembarked from the boat or truck, at any point within the
+  range of the rolled distance.
 
 ### Building or selling a piece, and price list
 
@@ -92,7 +127,7 @@ available for purchase again later.
 |-----------------|-------|--------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | airfield        | n/a   | n/a                                              | builds fighter jet, refuel, fortify | When a fighter jet has made an attack it is immediately returned to the airfield. If there is no empty airfield, the plane crashes and the piece is returned to the Bank. If an airfield is destroyed or sold whilst a fighter jet is on it, the fighter jet is lost too (destroyed, not sold). |
 | barracks        | n/a   | n/a                                              |                                     |                                                                                                                                                                                                                                                                                                 |
-| boat            | 1x d6 | none, 1x d6 or 2x d6                             | embark 1x or 2x, disembark 1x or 2x | Only embarked infantry can attack. Up to two embarked infantry can attack in the same turn for this vehicle. Disembarked (empty) vehicle cannot attack. Vehicle destruction results in occupants being lost too.                                                                                |
+| boat            | 1x d6 | none, 1x d6 or 1x d6 twice                       | embark 1x or 2x, disembark 1x or 2x | Only embarked infantry can attack. Up to two embarked infantry can attack in the same turn for this vehicle. Disembarked (empty) vehicle cannot attack. Vehicle destruction results in occupants being lost too.                                                                                |
 | bulldozer       | 1x d6 | n/a                                              |                                     |                                                                                                                                                                                                                                                                                                 |
 | command centre  | n/a   | n/a                                              |                                     |                                                                                                                                                                                                                                                                                                 |
 | factory         | n/a   | n/a                                              |                                     |                                                                                                                                                                                                                                                                                                 |
@@ -105,4 +140,4 @@ available for purchase again later.
 | plus disc       | n/a   | n/a                                              | extra turn, sell for 100            | A Plus Disc can be spent or sold during a turn, or earned at the end of a player's turn (not during).                                                                                                                                                                                           |
 | super weapon    | n/a   | 1x (any range, always hits)                      |                                     |                                                                                                                                                                                                                                                                                                 |
 | tank            | 1x d6 | 1x d6                                            |                                     | A tank can destroy a fortified building in a single 1x d6 attack.                                                                                                                                                                                                                               |
-| truck           | 1x d6 | none, 1x d6 or 2x d6                             | embark 1x or 2x, disembark 1x or 2x | Only embarked infantry can attack. Up to two embarked infantry can attack in the same turn for this vehicle. Disembarked (empty) vehicle cannot attack. Vehicle destruction results in occupants being lost too.                                                                                |
+| truck           | 1x d6 | none, 1x d6 or 1x d6 twice                       | embark 1x or 2x, disembark 1x or 2x | Only embarked infantry can attack. Up to two embarked infantry can attack in the same turn for this vehicle. Disembarked (empty) vehicle cannot attack. Vehicle destruction results in occupants being lost too.                                                                                |
