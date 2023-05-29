@@ -23,7 +23,11 @@ Suitable for two or more players. Check your local laws for age restrictions on 
 This game is available as a [digital download](https://github.com/TimelessP/wartime), and you have to print the game pieces yourself (disclaimer: see [LICENCE](LICENSE.txt)).
 
 The game pieces are designed to be printed on 3D printers. The game's pretend money can be printed on any 2D paper
-printer.
+printer. You will need to cut the pretend money out yourself.
+
+![fortified command centre piece](media/screenshots/screenshot-command-centre-fortified.png "fortified command centre")
+
+![pretend money](media/paper/wartime-pretend-money.png "pretend money")
 
 All quantities below are per-player quantities. You might like to print the pieces so that each player has their own
 colour. The game rules support two or more players. The quantities to print of each piece are as follows:
