@@ -4,7 +4,7 @@ Timeless Prototype's WarTime is a digitally-downloadable, 3D-print-it-yourself, 
 
 This game provides many hours of re-playable enjoyment. You are likely to learn about risk/reward, closed economies, strategies, and timing. Just printing all those 3D pieces will test your patience and mettle, long before the first game can even be played. It's character-building/discovery. :)
 
-Suitable for two or more players. Check your local laws for age restrictions on battle games (wars are violent).
+Suitable for two or more players. Check your local laws for age restrictions on battle games (wars are violent). If I was to give this a safe PEGI rating iit would be PEGI 18 (weapons, violence, pretend money) - but PEGI ratings are for computer games, not tabletop games. Check your local laws.
 
 ## Origins
 
