@@ -32,28 +32,28 @@ printer. You will need to cut the pretend money out yourself.
 All quantities below are per-player quantities. You might like to print the pieces so that each player has their own
 colour. The game rules support two or more players. The quantities to print of each piece are as follows:
 
-| Piece                                                              | Print Quantity | Media Type |
-|:-------------------------------------------------------------------|----------------|------------|
-| [wartime-pretend-money.pdf](media/paper/wartime-pretend-money.pdf) | 1              | 2D paper   |
-| [airfield](media/3d-prints/3dpiece-airfield.stl)                   | 2              | 3D plastic |
-| [barracks](media/3d-prints/3dpiece-barracks.stl)                   | 2              | 3D plastic |
-| [boat](media/3d-prints/3dpiece-boat.stl)                           | 2              | 3D plastic |
-| [bulldozer](media/3d-prints/3dpiece-bulldozer.stl)                 | 2              | 3D plastic |
-| [command centre](media/3d-prints/3dpiece-command-centre.stl)       | 2              | 3D plastic |
-| [d6](media/3d-prints/3dpiece-d6.stl)                               | 1              | 3D plastic |
-| [factory](media/3d-prints/3dpiece-factory.stl)                     | 2              | 3D plastic |
-| [fighter jet](media/3d-prints/3dpiece-fighter-jet.stl)             | 2              | 3D plastic |
-| [fortification](media/3d-prints/3dpiece-fortification.stl)         | 8              | 3D plastic |
-| [infantry](media/3d-prints/3dpiece-infantry.stl)                   | 9              | 3D plastic |
-| [measuring stick](media/3d-prints/3dpiece-measuring-stick.stl)     | 1              | 3D plastic |
-| [missile battery](media/3d-prints/3dpiece-missile-battery.stl)     | 2              | 3D plastic |
-| [oil storage](media/3d-prints/3dpiece-oil-storage.stl)             | 2              | 3D plastic |
-| [oil well](media/3d-prints/3dpiece-oil-well.stl)                   | 2              | 3D plastic |
-| [plus disc](media/3d-prints/3dpiece-plus-disc.stl)                 | 4              | 3D plastic |
-| [plus disc holder](media/3d-prints/3dpiece-plus-disc-holder.stl)   | 1              | 3D plastic |
-| [superweapon](media/3d-prints/3dpiece-superweapon.stl)             | 1              | 3D plastic |
-| [tank](media/3d-prints/3dpiece-tank.stl)                           | 2              | 3D plastic |
-| [truck](media/3d-prints/3dpiece-truck.stl)                         | 2              | 3D plastic |
+| Thumbnail                                                                                                                                                                        | Piece            | Print Quantity | Media Type |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------|------------|
+| [<img src="media/paper/wartime-pretend-money.png" alt="pretend money" width="60" height="60" />](media/paper/wartime-pretend-money.pdf)                                          | pretend money    | 1              | 2D paper   |
+| [<img src="media/thumbnails/thumbnail-airfield.png" alt="airfield" width="60" height="60" />](media/3d-prints/3dpiece-airfield.stl "airfield")                                   | airfield         | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-barracks.png" alt="barracks" width="60" height="60" />](media/3d-prints/3dpiece-barracks.stl "barracks")                                   | barracks         | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-boat.png" alt="boat" width="60" height="60" />](media/3d-prints/3dpiece-boat.stl "boat")                                                   | boat             | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-bulldozer.png" alt="bulldozer" width="60" height="60" />](media/3d-prints/3dpiece-bulldozer.stl "bulldozer")                               | bulldozer        | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-command-centre.png" alt="command centre" width="60" height="60" />](media/3d-prints/3dpiece-command-centre.stl "command centre")           | command centre   | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-d6.png" alt="d6" width="60" height="60" />](media/3d-prints/3dpiece-d6.stl "d6")                                                           | d6               | 1              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-factory.png" alt="factory" width="60" height="60" />](media/3d-prints/3dpiece-factory.stl "factory")                                       | factory          | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-fighter-jet.png" alt="fighter jet" width="60" height="60" />](media/3d-prints/3dpiece-fighter-jet.stl "fighter jet")                       | fighter jet      | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-fortification.png" alt="fortification" width="60" height="60" />](media/3d-prints/3dpiece-fortification.stl "fortification")               | fortification    | 8              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-infantry.png" alt="infantry" width="60" height="60" />](media/3d-prints/3dpiece-infantry.stl "infantry")                                   | infantry         | 9              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-measuring-stick.png" alt="measuring stick" width="60" height="60" />](media/3d-prints/3dpiece-measuring-stick.stl "measuring stick")       | measuring stick  | 1              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-missile-battery.png" alt="missile battery" width="60" height="60" />](media/3d-prints/3dpiece-missile-battery.stl "missile battery")       | missile battery  | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-oil-storage.png" alt="oil storage" width="60" height="60" />](media/3d-prints/3dpiece-oil-storage.stl "oil storage")                       | oil storage      | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-oil-well.png" alt="oil well" width="60" height="60" />](media/3d-prints/3dpiece-oil-well.stl "oil well")                                   | oil well         | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-plus-disc-holder-1.png" alt="plus disc" width="60" height="60" />](media/3d-prints/3dpiece-plus-disc.stl "plus disc")                      | plus disc        | 4              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-plus-disc-holder-2.png" alt="plus disc holder" width="60" height="60" />](media/3d-prints/3dpiece-plus-disc-holder.stl "plus disc holder") | plus disc holder | 1              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-superweapon.png" alt="superweapon" width="60" height="60" />](media/3d-prints/3dpiece-superweapon.stl "superweapon")                       | super weapon     | 1              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-tank.png" alt="tank" width="60" height="60" />](media/3d-prints/3dpiece-tank.stl "tank")                                                   | tank             | 2              | 3D plastic |
+| [<img src="media/thumbnails/thumbnail-truck.png" alt="truck" width="60" height="60" />](media/3d-prints/3dpiece-truck.stl "truck")                                               | truck            | 2              | 3D plastic |
 
 Total pretend cash amount to print per player is `1000 + 500 * 3 + 100 * 5 = 3000` (i.e. one sheet of pretend money).
 
