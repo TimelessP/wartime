@@ -39,12 +39,13 @@ this way if the player has that many already to spend.
 
 ### Reward
 
-If any successful attacks (excluding fortifications, and not moves, nor captures, etc.) were made during the turn, only one Plus Disc is given to the
-attacking player from the Bank, unless there are no more Plus Discs of the player's colour remaining in the Bank.
+If any successful attacks (excluding fortifications, and not moves, nor captures, etc.) were made during the turn, only
+one Plus Disc is given to the attacking player from the Bank, unless there are no more Plus Discs of the player's colour
+remaining in the Bank.
 
 ### End of game or turn
 
-A player exits the game if all their pieces are destroyed or captured.
+A player exits the game if all their remaining pieces are sold, destroyed or captured.
 
 The last player remaining in the game wins.
 
@@ -71,7 +72,8 @@ Special case: 2x d6 is the distance of two d6 rolls in the case of the fighter j
   will be attacking.
 - If the measuring stick at the rolled distance touches any part of the target piece, or is within that range, the
   attack is successful.
-- If the target unit is destroyed (fortifications do not count), and if a Plus Disc is available in the bank, it is awarded to the player.
+- If the target unit is destroyed (fortifications do not count), and if a Plus Disc is available in the bank, it is
+  awarded to the player.
 - Repeat if the piece has the ability to attack 1x d6 twice in the same turn.
 
 Special case: 2x d6 is the distance of two d6 rolls in the case of the missile battery's attack capability.
