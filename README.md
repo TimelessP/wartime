@@ -6,6 +6,8 @@ This game provides many hours of re-playable enjoyment. You are likely to learn 
 
 Suitable for two or more players. Check your local laws for age restrictions on battle games (wars are violent). If I was to give this a safe PEGI rating it would be PEGI 18 (weapons, violence, pretend money) - but PEGI ratings are for computer games, not tabletop games. Check your local laws.
 
+TL;DR: [Game Rules](wartime-rules.md)
+
 ## Origins
 
 > [@TimelessP](https://github.com/TimelessP): "When I was young, my friends and I used to play a battle game using pen and paper. We would draw our islands, bases, airfields, and all the military units, such as infantry, aircraft, ships, tanks, turrets, etc. Then, with each turn, we would stand the pen up on say a tank, and declare that we are "moving" or "attacking", then slide the pen by touching only the top of the pen, and the ballpoint pen would be made to slide and draw a streak. Where the streak ended, that's where we would draw the unit, and cross out the old position of the unit. Or, if attacking, if the line so much as touches the target piece it was counted as a "hit"!
@@ -69,7 +71,7 @@ Here's a YouTube video of the pieces I printed:
 
 ## Game Rules
 
-The game rules are available as a [digital download](wartime-rules.md). 
+The [game rules](wartime-rules.md) are available online. 
 
 ## Licence
 
