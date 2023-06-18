@@ -100,6 +100,8 @@ same single action.
 &nbsp;<img src="media/thumbnails/thumbnail-boat-1.png" alt="boat with one infantry" width="100" height="100" />
 &nbsp;<img src="media/thumbnails/thumbnail-boat-2.png" alt="boat with two infantry" width="100" height="100" />
 
+<div style="page-break-after: always"></div>
+
 ### Building or selling a piece, and price list
 
 When building a piece using the bulldozer, the piece must be placed touching the bulldozer.
@@ -125,6 +127,8 @@ available for purchase again later.
 | [<img src="media/thumbnails/thumbnail-superweapon.png" alt="super weapon" width="60" height="60" />](media/3d-prints/3dpiece-superweapon.stl "super weapon")               | super weapon    | bulldozer              | 1500         | 100           |
 | [<img src="media/thumbnails/thumbnail-tank.png" alt="tank" width="60" height="60" />](media/3d-prints/3dpiece-tank.stl "tank")                                             | tank            | factory                | 100          | n/a           |
 | [<img src="media/thumbnails/thumbnail-truck.png" alt="truck" width="60" height="60" />](media/3d-prints/3dpiece-truck.stl "truck")                                         | truck           | factory                | 100          | n/a           |
+
+<div style="page-break-after: always"></div>
 
 ## Reference - piece-specific actions
 
