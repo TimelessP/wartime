@@ -111,7 +111,7 @@ available for purchase again later.
 
 <div style="page-break-after: always"></div>
 
-### Price list
+## Reference - Price list
 
 | Thumbnail                                                                                                                                                                  | Piece           | Creation Requires      | Buying Price | Selling Price |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------|--------------|---------------|
@@ -154,3 +154,11 @@ available for purchase again later.
 | super weapon    | n/a   | 1x (any range within 3x measuring sticks, always hits) | can only attack buildings           |                                                                                                                                                                                                                                                                                                 |
 | tank            | 1x d6 | 1x d6                                                  |                                     | A tank can destroy a fortified building in a single 1x d6 attack.                                                                                                                                                                                                                               |
 | truck           | 1x d6 | none, 1x d6 or 1x d6 twice                             | embark 1x or 2x, disembark 1x or 2x | Only embarked infantry can attack. Up to two embarked infantry can attack in the same turn for this vehicle. Disembarked (empty) vehicle cannot attack. Vehicle destruction results in occupants being lost too.                                                                                |
+
+## Reference - updates
+
+Latest updates are available at [github.com/timelessp/wartime](https://github.com/TimelessP/wartime)
+
+Or scan the following static QR code to buy me a coffee:
+
+<img src="media/images/bmc_qr.png" width="200" height="200" alt="Buy Me A Coffee QR Code" />
