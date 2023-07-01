@@ -22,7 +22,7 @@ jobs:
       run: npm install -g markdown-pdf
 
     - name: Convert Markdown to PDF
-      run: markdown-pdf wartime-rules.md -o wartime-rules.pdf
+      run: wartime-rules.md -o wartime-rules.pdf -m '{"html": true, "xhtmlOut": true, "breaks": true, "typographer": true, "linkify": true}'
 
     - name: Archive code coverage results
       uses: actions/upload-artifact@v3
