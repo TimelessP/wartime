@@ -1,3 +1,5 @@
+[![Convert Markdown to PDF](https://github.com/TimelessP/wartime/actions/workflows/convert-to-pdf.yml/badge.svg)](https://github.com/TimelessP/wartime/actions/workflows/convert-to-pdf.yml)
+
 # Timeless Prototype's WarTime
 
 Timeless Prototype's WarTime is a digitally-downloadable, 3D-print-it-yourself, strategic tabletop game.
