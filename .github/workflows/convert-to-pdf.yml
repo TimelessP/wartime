@@ -24,7 +24,7 @@ jobs:
     - name: Convert Markdown to PDF
       run: |
         markdown-pdf --remarkable-options='{"html": true, "xhtmlOut": true, "breaks": true, "typographer": true, "linkify": true}' \
-          -o wartime-rules.pdf wartime-rules.md
+          -s css/custom.css -o wartime-rules.pdf wartime-rules.md
     - name: Archive code coverage results
       uses: actions/upload-artifact@v3
       with:
