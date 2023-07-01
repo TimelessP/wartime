@@ -98,18 +98,20 @@ same single action.
 - When disembarking, any one or two infantry pieces can be disembarked from the boat or truck, at any point within the
   range of the rolled distance.
 
-<img src="media/thumbnails/thumbnail-boat.png" alt="empty boat" width="100" height="100" />
-&nbsp;<img src="media/thumbnails/thumbnail-boat-1.png" alt="boat with one infantry" width="100" height="100" />
-&nbsp;<img src="media/thumbnails/thumbnail-boat-2.png" alt="boat with two infantry" width="100" height="100" />
+| Disembarked                                                                                 | 1x Embarked                                                                                               | 2x embarked                                                                                               |
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| <img src="media/thumbnails/thumbnail-boat.png" alt="empty boat" width="100" height="100" /> | <img src="media/thumbnails/thumbnail-boat-1.png" alt="boat with one infantry" width="100" height="100" /> | <img src="media/thumbnails/thumbnail-boat-2.png" alt="boat with two infantry" width="100" height="100" /> |
 
-<div style="page-break-after: always"></div>
-
-### Building or selling a piece, and price list
+### Building or selling a piece
 
 When building a piece using the bulldozer, the piece must be placed touching the bulldozer.
 
 After a piece is sold (to the Bank only), it is removed from the table and placed back into the Bank, and is then
 available for purchase again later.
+
+<div style="page-break-after: always"></div>
+
+### Price list
 
 | Thumbnail                                                                                                                                                                  | Piece           | Creation Requires      | Buying Price | Selling Price |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------|--------------|---------------|
