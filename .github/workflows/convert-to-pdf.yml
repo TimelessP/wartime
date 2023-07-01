@@ -23,3 +23,9 @@ jobs:
 
     - name: Convert Markdown to PDF
       run: markdown-pdf wartime-rules.md -o wartime-rules.pdf
+
+    - name: Archive code coverage results
+      uses: actions/upload-artifact@v3
+      with:
+        name: pdf-artifact
+        path: wartime-rules.pdf
