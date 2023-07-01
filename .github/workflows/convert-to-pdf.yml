@@ -1,0 +1,25 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install -g markdown-pdf
+
+    - name: Convert Markdown to PDF
+      run: markdown-pdf wartime-rules.md -o wartime-rules.pdf
