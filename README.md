@@ -71,6 +71,10 @@ Here's a YouTube video of the pieces I printed:
 
 [![YouTube video of the pieces I printed](https://img.youtube.com/vi/7DOfBi7nyT8/0.jpg)](https://youtu.be/7DOfBi7nyT8)
 
+## Customise
+
+The game pieces are designed using TinkerCAD. You can view or clone (for editing) the [original game pieces](https://www.tinkercad.com/things/agy86gBAnTb) that were designed by Timeless Prototype.
+
 ## Game Rules
 
 The [game rules](wartime-rules.md) are available online. 
